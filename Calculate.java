@@ -3,7 +3,7 @@ package day01;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Calculate extends Caculater{
+public class Calculate{
 	public static void main(String[] args) {
 		String value = null;
 		Scanner sc = new Scanner(System.in);
